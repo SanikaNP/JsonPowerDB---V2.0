@@ -54,6 +54,6 @@ JPDB supports and advocates for true serverless and pluggable API development.
 * Server side Native NoSQL - best query performance.
 * Web-services API - Can be used with any programming language that has support for HTTP.
 
-***------------------------------------------------------------------------------------------------------------------------------------------***
+***---------------------------------------------------------------------------------------------------------------------------------***
 ## Release History
 v2.0.0 (29/12/2022)
