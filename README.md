@@ -10,10 +10,12 @@ JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Res
 JsonPowerDB has ready to use API for Json document DB, RDBMS, Key-value DB, GeoSpatial DB and Time Series DB functionality.     
 
 JPDB supports and advocates for true serverless and pluggable API development.   
+          
+          
+***-------------------------------------------------------------------------------------------------------------------------------------------------------------***
 
-
-
-
+         
+         
 
 ## Description of the project   
 
@@ -29,16 +31,18 @@ JPDB supports and advocates for true serverless and pluggable API development.
 * After user enters the data it is checked if any field is left empty.
 * If any field is empty an alert message is displayed.
 
+***-------------------------------------------------------------------------------------------------------------------------------------------------------------***
 
 
-![Screenshot (360)](https://user-images.githubusercontent.com/95097643/209860085-7b69dfd0-4543-49a9-afb3-f640ce78cf99.png)     
+![Screenshot (360)](https://user-images.githubusercontent.com/95097643/209860085-7b69dfd0-4543-49a9-afb3-f640ce78cf99.png)   
 
 
+***-------------------------------------------------------------------------------------------------------------------------------------------------------------***
 
 ![Screenshot (358)](https://user-images.githubusercontent.com/95097643/209856046-84e4cb58-74d5-4e23-9fe7-50caed319a1a.png)
 
 
-
+***-------------------------------------------------------------------------------------------------------------------------------------------------------------***
 ### Benefits of using JsonPowerDB
 
 * It is low level (raw) form of data and is also human readable.
@@ -50,5 +54,6 @@ JPDB supports and advocates for true serverless and pluggable API development.
 * Server side Native NoSQL - best query performance.
 * Web-services API - Can be used with any programming language that has support for HTTP.
 
+***------------------------------------------------------------------------------------------------------------------------------------------------------------***
 ## Release History
 v2.0.0 (29/12/2022)
